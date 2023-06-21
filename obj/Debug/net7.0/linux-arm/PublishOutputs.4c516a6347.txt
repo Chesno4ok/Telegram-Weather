@@ -1,0 +1,3 @@
+C:\Users\chesn\YandexDisk\repos\N\TelegramWeather\bin\Debug\net7.0\linux-arm\publish\TelegramWeather.pdb
+C:\Users\chesn\YandexDisk\repos\N\TelegramWeather\bin\Debug\net7.0\linux-arm\publish\libe_sqlite3.so
+C:\Users\chesn\YandexDisk\repos\N\TelegramWeather\bin\Debug\net7.0\linux-arm\publish\TelegramWeather
